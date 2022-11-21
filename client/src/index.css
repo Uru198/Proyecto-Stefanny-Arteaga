@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link {
+    @apply text-[#634d2f] block p-5 font-extrabold   hover:text-[#403c1c]
+}
